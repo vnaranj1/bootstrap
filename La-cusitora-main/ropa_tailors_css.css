@@ -1,0 +1,31 @@
+/* Ropa Tailors atributos de la p-ágina principal html: Ropa_Tailors */
+#body1{
+    background-color: black;
+}
+
+#header {
+    height: 200px;
+    /*align-content: center;*
+    /*border: white solid 1px;*/
+    margin:auto;
+}
+
+
+#img_tailors {
+    background: url(tailors_logo.PNG);
+    background-size: 200px 200px;
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 200px;
+    margin:auto;
+    /*position: fixed;
+    left: 45%;*/
+    margin-left:43%
+    
+    /*border: 1px solid black;*/
+}
+
+#menu {
+    position: relative;
+    margin-left: 45%;
+}
